@@ -59,3 +59,5 @@ If you have further questions, please feel free to email me at mattreynolds53@gm
 GitHub Repository: https://github.com/MattReynolds53/Text-Editor
 
 Deployed Heroku Link: https://sheltered-brushlands-36545.herokuapp.com/
+
+![](./screenshots/TextEditorPWA.png)
